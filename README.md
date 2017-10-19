@@ -49,7 +49,7 @@ Hem creat un repositori dins GitHub que es diu lmsgi_2017_2018 i hem pujat els f
 ## c) Ús de Rawgit per veure html de GitHub
 * Hem editat el fitxer *codi_HTML.html*,  hem copiat l'enllaç de la url
 * Hem obert una pestanya nova del navegador i hem entrat a https://rawgit.com/
-* Hem enganxat l'enllacç allà on diu "paste a GitHub file or GIST url here"
+* Hem enganxat l'enllaç allà on diu "paste a GitHub file or GIST url here"
 * A la part de la dreta de la pantalla premem on diu "Use this URL for development"
 * copiam la url de "Use this URL for development" i l'enganxam a una altra finestra del navegador
 * Veim el resultat amb els títols i la llista i els enllaços en format web
